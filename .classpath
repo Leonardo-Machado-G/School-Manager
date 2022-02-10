@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Leoslow/Downloads/Trabajo Entornos de Desarrollo/JAR/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leoslow/Downloads/Trabajo Entornos de Desarrollo/JAR/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Leoslow/Downloads/Trabajo Entornos de Desarrollo/JAR/javax.mail-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Leo/1º DAW/Módulos/Entorno de Desarrollo/Trabajo final/JAR/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Leo/1º DAW/Módulos/Entorno de Desarrollo/Trabajo final/JAR/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Leo/1º DAW/Módulos/Entorno de Desarrollo/Trabajo final/JAR/javax.mail-api-1.6.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
